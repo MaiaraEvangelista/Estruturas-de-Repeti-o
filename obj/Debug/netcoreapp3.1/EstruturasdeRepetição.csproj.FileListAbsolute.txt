@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/bin/Debug/netcoreapp3.1/EstruturasdeRepetição
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/bin/Debug/netcoreapp3.1/EstruturasdeRepetição.deps.json
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/bin/Debug/netcoreapp3.1/EstruturasdeRepetição.runtimeconfig.json
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/bin/Debug/netcoreapp3.1/EstruturasdeRepetição.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/bin/Debug/netcoreapp3.1/EstruturasdeRepetição.dll
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/bin/Debug/netcoreapp3.1/EstruturasdeRepetição.pdb
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/obj/Debug/netcoreapp3.1/EstruturasdeRepetição.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/obj/Debug/netcoreapp3.1/EstruturasdeRepetição.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/obj/Debug/netcoreapp3.1/EstruturasdeRepetição.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/obj/Debug/netcoreapp3.1/EstruturasdeRepetição.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/obj/Debug/netcoreapp3.1/EstruturasdeRepetição.dll
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/obj/Debug/netcoreapp3.1/EstruturasdeRepetição.pdb
+/home/maiara/Área de Trabalho/EstruturasdeRepetição/obj/Debug/netcoreapp3.1/EstruturasdeRepetição.genruntimeconfig.cache
